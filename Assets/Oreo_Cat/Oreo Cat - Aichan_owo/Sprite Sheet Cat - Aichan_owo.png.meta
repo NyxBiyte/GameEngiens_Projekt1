@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: 8ef675e4ce5eca944b1440d3f08194c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -530053727918165926
+    second: Sprite Sheet Cat - Aichan_owo_0
+  - first:
+      213: -6520683568941483064
+    second: Sprite Sheet Cat - Aichan_owo_1
+  - first:
+      213: 8144859773304887515
+    second: Sprite Sheet Cat - Aichan_owo_2
+  - first:
+      213: 4101015514598428441
+    second: Sprite Sheet Cat - Aichan_owo_3
+  - first:
+      213: 1435316071224044375
+    second: Sprite Sheet Cat - Aichan_owo_4
+  - first:
+      213: 3893618192618129837
+    second: Sprite Sheet Cat - Aichan_owo_5
+  - first:
+      213: -3750666848197293445
+    second: Sprite Sheet Cat - Aichan_owo_6
+  - first:
+      213: 3422332262071314567
+    second: Sprite Sheet Cat - Aichan_owo_7
+  - first:
+      213: 532855610076485547
+    second: Sprite Sheet Cat - Aichan_owo_8
+  - first:
+      213: 599030457061411374
+    second: Sprite Sheet Cat - Aichan_owo_9
+  - first:
+      213: 4882501930656005432
+    second: Sprite Sheet Cat - Aichan_owo_10
+  - first:
+      213: -7606724027652969156
+    second: Sprite Sheet Cat - Aichan_owo_11
+  - first:
+      213: -1900552886378435140
+    second: Sprite Sheet Cat - Aichan_owo_12
+  - first:
+      213: -5370354122243332982
+    second: Sprite Sheet Cat - Aichan_owo_13
+  - first:
+      213: 2440362786627746249
+    second: Sprite Sheet Cat - Aichan_owo_14
+  - first:
+      213: 466556821207469784
+    second: Sprite Sheet Cat - Aichan_owo_15
+  - first:
+      213: -5384103137460640464
+    second: Sprite Sheet Cat - Aichan_owo_16
+  - first:
+      213: -3171782721952404849
+    second: Sprite Sheet Cat - Aichan_owo_17
+  - first:
+      213: -1008737328270770006
+    second: Sprite Sheet Cat - Aichan_owo_18
+  - first:
+      213: -808689527709302433
+    second: Sprite Sheet Cat - Aichan_owo_19
+  - first:
+      213: -2403806808420471442
+    second: Sprite Sheet Cat - Aichan_owo_20
+  - first:
+      213: -6016858059507484718
+    second: Sprite Sheet Cat - Aichan_owo_21
+  - first:
+      213: -1687399782036856146
+    second: Sprite Sheet Cat - Aichan_owo_22
+  - first:
+      213: -1102586630912330502
+    second: Sprite Sheet Cat - Aichan_owo_23
+  - first:
+      213: -1550489553370743640
+    second: Sprite Sheet Cat - Aichan_owo_24
+  - first:
+      213: -1812432402621100494
+    second: Sprite Sheet Cat - Aichan_owo_25
+  - first:
+      213: -8040369802566345059
+    second: Sprite Sheet Cat - Aichan_owo_26
+  - first:
+      213: -3296276944474655187
+    second: Sprite Sheet Cat - Aichan_owo_27
+  - first:
+      213: 6311113963205818409
+    second: Sprite Sheet Cat - Aichan_owo_28
+  - first:
+      213: -1080611762663250619
+    second: Sprite Sheet Cat - Aichan_owo_29
+  - first:
+      213: 3460354980350256795
+    second: Sprite Sheet Cat - Aichan_owo_30
+  - first:
+      213: -1805524178609461816
+    second: Sprite Sheet Cat - Aichan_owo_31
+  - first:
+      213: -1733141151211533570
+    second: Sprite Sheet Cat - Aichan_owo_32
+  - first:
+      213: 6429882682811175953
+    second: Sprite Sheet Cat - Aichan_owo_33
+  - first:
+      213: -8138368438310796879
+    second: Sprite Sheet Cat - Aichan_owo_34
+  - first:
+      213: 3319503594896947402
+    second: Sprite Sheet Cat - Aichan_owo_35
+  - first:
+      213: -461518715217876953
+    second: Sprite Sheet Cat - Aichan_owo_36
+  - first:
+      213: 7226491330475669938
+    second: Sprite Sheet Cat - Aichan_owo_37
+  - first:
+      213: -1492946901875591989
+    second: Sprite Sheet Cat - Aichan_owo_38
+  - first:
+      213: 3170631904241729502
+    second: Sprite Sheet Cat - Aichan_owo_39
+  - first:
+      213: 5017389433819214182
+    second: Sprite Sheet Cat - Aichan_owo_40
+  - first:
+      213: -4832989085155901765
+    second: Sprite Sheet Cat - Aichan_owo_41
+  - first:
+      213: -7292566226311438440
+    second: Sprite Sheet Cat - Aichan_owo_42
+  - first:
+      213: -3828487858074523376
+    second: Sprite Sheet Cat - Aichan_owo_43
+  - first:
+      213: -2675029723417896031
+    second: Sprite Sheet Cat - Aichan_owo_44
+  - first:
+      213: -7779851914547249297
+    second: Sprite Sheet Cat - Aichan_owo_45
+  - first:
+      213: 2870721547367769813
+    second: Sprite Sheet Cat - Aichan_owo_46
+  - first:
+      213: 8826857100768092092
+    second: Sprite Sheet Cat - Aichan_owo_47
+  - first:
+      213: -4369526976577899123
+    second: Sprite Sheet Cat - Aichan_owo_48
+  - first:
+      213: 7728564483914127680
+    second: Sprite Sheet Cat - Aichan_owo_49
+  - first:
+      213: 2086771632096831102
+    second: Sprite Sheet Cat - Aichan_owo_50
+  - first:
+      213: 1031323088770267998
+    second: Sprite Sheet Cat - Aichan_owo_51
+  - first:
+      213: 5782735082667838931
+    second: Sprite Sheet Cat - Aichan_owo_52
+  - first:
+      213: 1735434967372650736
+    second: Sprite Sheet Cat - Aichan_owo_53
+  - first:
+      213: 1898332847551448834
+    second: Sprite Sheet Cat - Aichan_owo_54
+  - first:
+      213: -7128553389773287453
+    second: Sprite Sheet Cat - Aichan_owo_55
+  - first:
+      213: 5310282110076835344
+    second: Sprite Sheet Cat - Aichan_owo_56
+  - first:
+      213: -2665067577057831455
+    second: Sprite Sheet Cat - Aichan_owo_57
+  - first:
+      213: -3303987412023410479
+    second: Sprite Sheet Cat - Aichan_owo_58
+  - first:
+      213: -8985594017415535572
+    second: Sprite Sheet Cat - Aichan_owo_59
+  - first:
+      213: 8729156919620267008
+    second: Sprite Sheet Cat - Aichan_owo_60
+  - first:
+      213: 1692862200151185947
+    second: Sprite Sheet Cat - Aichan_owo_61
+  - first:
+      213: 5497186347552839525
+    second: Sprite Sheet Cat - Aichan_owo_62
+  - first:
+      213: 5344521249194216431
+    second: Sprite Sheet Cat - Aichan_owo_63
+  - first:
+      213: -4056545777871381661
+    second: Sprite Sheet Cat - Aichan_owo_64
+  - first:
+      213: -375154802259426969
+    second: Sprite Sheet Cat - Aichan_owo_65
+  - first:
+      213: -7164829874662830080
+    second: Sprite Sheet Cat - Aichan_owo_66
+  - first:
+      213: 8166334835527411393
+    second: Sprite Sheet Cat - Aichan_owo_67
+  - first:
+      213: 5032147594847557353
+    second: Sprite Sheet Cat - Aichan_owo_68
+  - first:
+      213: 9058597148781969723
+    second: Sprite Sheet Cat - Aichan_owo_69
+  - first:
+      213: -2969871566735506218
+    second: Sprite Sheet Cat - Aichan_owo_70
+  - first:
+      213: 7446924085970596612
+    second: Sprite Sheet Cat - Aichan_owo_71
+  - first:
+      213: 718197070634482285
+    second: Sprite Sheet Cat - Aichan_owo_72
+  - first:
+      213: -7573982312428415054
+    second: Sprite Sheet Cat - Aichan_owo_73
+  - first:
+      213: -7113879396241998672
+    second: Sprite Sheet Cat - Aichan_owo_74
+  - first:
+      213: -611584208001648340
+    second: Sprite Sheet Cat - Aichan_owo_75
+  - first:
+      213: -5699922917340713740
+    second: Sprite Sheet Cat - Aichan_owo_76
+  - first:
+      213: -4994260377897537562
+    second: Sprite Sheet Cat - Aichan_owo_77
+  - first:
+      213: -6872284624205059520
+    second: Sprite Sheet Cat - Aichan_owo_78
+  - first:
+      213: 2877259329327227395
+    second: Sprite Sheet Cat - Aichan_owo_79
+  - first:
+      213: 4913077961915425145
+    second: Sprite Sheet Cat - Aichan_owo_80
+  - first:
+      213: -8069533805789691889
+    second: Sprite Sheet Cat - Aichan_owo_81
+  - first:
+      213: -2716045805544792920
+    second: Sprite Sheet Cat - Aichan_owo_82
+  - first:
+      213: 1451985877945899165
+    second: Sprite Sheet Cat - Aichan_owo_83
+  - first:
+      213: -6766422148538961852
+    second: Sprite Sheet Cat - Aichan_owo_84
+  - first:
+      213: -220984715862724058
+    second: Sprite Sheet Cat - Aichan_owo_85
+  - first:
+      213: 4755988404495932884
+    second: Sprite Sheet Cat - Aichan_owo_86
+  - first:
+      213: -3601553603531437523
+    second: Sprite Sheet Cat - Aichan_owo_87
+  - first:
+      213: 128014169767667822
+    second: Sprite Sheet Cat - Aichan_owo_88
+  - first:
+      213: -5381683554982253308
+    second: Sprite Sheet Cat - Aichan_owo_89
+  - first:
+      213: -7260955026434113052
+    second: Sprite Sheet Cat - Aichan_owo_90
+  - first:
+      213: -1453724156756391386
+    second: Sprite Sheet Cat - Aichan_owo_91
+  - first:
+      213: -8951727337544617912
+    second: Sprite Sheet Cat - Aichan_owo_92
+  - first:
+      213: -7554602125010884770
+    second: Sprite Sheet Cat - Aichan_owo_93
+  - first:
+      213: 1449939848761940433
+    second: Sprite Sheet Cat - Aichan_owo_94
+  - first:
+      213: -8025144902525784264
+    second: Sprite Sheet Cat - Aichan_owo_95
+  - first:
+      213: 8132583630829520355
+    second: Sprite Sheet Cat - Aichan_owo_96
+  - first:
+      213: -5283911887916583678
+    second: Sprite Sheet Cat - Aichan_owo_97
+  - first:
+      213: 7448326442327753631
+    second: Sprite Sheet Cat - Aichan_owo_98
+  - first:
+      213: -4937231153744530388
+    second: Sprite Sheet Cat - Aichan_owo_99
+  - first:
+      213: 2166197666552895036
+    second: Sprite Sheet Cat - Aichan_owo_100
+  - first:
+      213: 4141567213898548065
+    second: Sprite Sheet Cat - Aichan_owo_101
+  - first:
+      213: 5204318169642368752
+    second: Sprite Sheet Cat - Aichan_owo_102
+  - first:
+      213: -4762174592995506985
+    second: Sprite Sheet Cat - Aichan_owo_103
+  - first:
+      213: 9203399124025188603
+    second: Sprite Sheet Cat - Aichan_owo_104
+  - first:
+      213: -7647581198643777724
+    second: Sprite Sheet Cat - Aichan_owo_105
+  - first:
+      213: 9066448137346175436
+    second: Sprite Sheet Cat - Aichan_owo_106
+  - first:
+      213: -8453011901008066362
+    second: Sprite Sheet Cat - Aichan_owo_107
+  - first:
+      213: -1336917035614073470
+    second: Sprite Sheet Cat - Aichan_owo_108
+  - first:
+      213: -8053297056930647080
+    second: Sprite Sheet Cat - Aichan_owo_109
+  - first:
+      213: 9218264984858075897
+    second: Sprite Sheet Cat - Aichan_owo_110
+  - first:
+      213: -4650400931382260471
+    second: Sprite Sheet Cat - Aichan_owo_111
+  - first:
+      213: 759098347121405092
+    second: Sprite Sheet Cat - Aichan_owo_112
+  - first:
+      213: 1341759255452749553
+    second: Sprite Sheet Cat - Aichan_owo_113
+  - first:
+      213: -301563139716778552
+    second: Sprite Sheet Cat - Aichan_owo_114
+  - first:
+      213: -8374515887045428679
+    second: Sprite Sheet Cat - Aichan_owo_115
+  - first:
+      213: -4353860571371810139
+    second: Sprite Sheet Cat - Aichan_owo_116
+  - first:
+      213: 8342452885900541438
+    second: Sprite Sheet Cat - Aichan_owo_117
+  - first:
+      213: -3833364716191116925
+    second: Sprite Sheet Cat - Aichan_owo_118
+  - first:
+      213: -7519054662971742283
+    second: Sprite Sheet Cat - Aichan_owo_119
+  - first:
+      213: 6684879617969387336
+    second: Sprite Sheet Cat - Aichan_owo_120
+  - first:
+      213: 7461467997268758388
+    second: Sprite Sheet Cat - Aichan_owo_121
+  - first:
+      213: 6569897244919511259
+    second: Sprite Sheet Cat - Aichan_owo_122
+  - first:
+      213: -3711345507804636001
+    second: Sprite Sheet Cat - Aichan_owo_123
+  - first:
+      213: -2681091994382806765
+    second: Sprite Sheet Cat - Aichan_owo_124
+  - first:
+      213: 9090089817592516704
+    second: Sprite Sheet Cat - Aichan_owo_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 737
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f09b51fed4a8f0800000000000000
+      internalID: -530053727918165926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 737
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb348497d0e185a0800000000000000
+      internalID: -6520683568941483064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 737
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8d43d7fca580170800000000000000
+      internalID: 8144859773304887515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 735
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f4106e1ebb9e830800000000000000
+      internalID: 4101015514598428441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 703
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75be7b5bc544be310800000000000000
+      internalID: 1435316071224044375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 703
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9800eed19e80630800000000000000
+      internalID: 3893618192618129837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 703
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7acd5a9f54f2fbc0800000000000000
+      internalID: -3750666848197293445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 703
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ae106f019e7f20800000000000000
+      internalID: 3422332262071314567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 671
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7de2baa55156700800000000000000
+      internalID: 532855610076485547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 673
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a09c2e60f205800800000000000000
+      internalID: 599030457061411374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 673
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83df8e723a122c340800000000000000
+      internalID: 4882501930656005432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 673
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3de05b8ccc7f6690800000000000000
+      internalID: -7606724027652969156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 641
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbde19a2831ef95e0800000000000000
+      internalID: -1900552886378435140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 641
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84a1a1116ba875b0800000000000000
+      internalID: -5370354122243332982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 641
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9770c5609edd120800000000000000
+      internalID: 2440362786627746249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 639
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de4b9bf4fa897600800000000000000
+      internalID: 466556821207469784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 639
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035a79109b2d745b0800000000000000
+      internalID: -5384103137460640464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 608
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a2e415b609bf3d0800000000000000
+      internalID: -3171782721952404849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 608
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa08eb49ebe3002f0800000000000000
+      internalID: -1008737328270770006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f510f4fb825f6c4f0800000000000000
+      internalID: -808689527709302433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 608
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dae639176f3aed0800000000000000
+      internalID: -2403806808420471442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 608
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d73c1b3973df7ca0800000000000000
+      internalID: -6016858059507484718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 608
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea22f95a6d62598e0800000000000000
+      internalID: -1687399782036856146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 576
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4306a0d43d2b0f0800000000000000
+      internalID: -1102586630912330502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 576
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf16f47fd8b7ae0800000000000000
+      internalID: -1550489553370743640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 578
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e8c5e1552f8d6e0800000000000000
+      internalID: -1812432402621100494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 578
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e5147a34eda6090800000000000000
+      internalID: -8040369802566345059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 578
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26374b55954142d0800000000000000
+      internalID: -3296276944474655187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 546
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928f3e936b4959750800000000000000
+      internalID: 6311113963205818409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 546
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5452952c355e001f0800000000000000
+      internalID: -1080611762663250619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 546
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96e7885586a50030800000000000000
+      internalID: 3460354980350256795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 546
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5aa9c535d71f6e0800000000000000
+      internalID: -1805524178609461816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 546
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efacc683e45a2f7e0800000000000000
+      internalID: -1733141151211533570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 529
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1145568ab388b3950800000000000000
+      internalID: 6429882682811175953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 514
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b10c373605be0f80800000000000000
+      internalID: -8138368438310796879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 532
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8f67c9eee311e20800000000000000
+      internalID: 3319503594896947402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 534
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7286e3a7c2b5899f0800000000000000
+      internalID: -461518715217876953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 514
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b93175d397a94460800000000000000
+      internalID: 7226491330475669938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc47f25e3bcf74be0800000000000000
+      internalID: -1492946901875591989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 514
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf39dd0be8500c20800000000000000
+      internalID: 3170631904241729502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 482
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661b7965b1951a540800000000000000
+      internalID: 5017389433819214182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 482
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe31f78806cdecb0800000000000000
+      internalID: -4832989085155901765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 482
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f12b3a7a99bca90800000000000000
+      internalID: -7292566226311438440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 482
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0196298c39a7edac0800000000000000
+      internalID: -3828487858074523376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 482
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab9014b3a260ead0800000000000000
+      internalID: -2675029723417896031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 482
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fb44437e9680490800000000000000
+      internalID: -7779851914547249297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 482
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d66aef990ad6d720800000000000000
+      internalID: 2870721547367769813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 482
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf9a6634cb4f7a70800000000000000
+      internalID: 8826857100768092092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8576949d525c53c0800000000000000
+      internalID: -4369526976577899123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 450
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049d66f4370614b60800000000000000
+      internalID: 7728564483914127680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 450
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e766e724eb3b5fc10800000000000000
+      internalID: 2086771632096831102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 450
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b7fc292eeff4e00800000000000000
+      internalID: 1031323088770267998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 418
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd0b906be6604050800000000000000
+      internalID: 5782735082667838931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 418
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8d90978e0851810800000000000000
+      internalID: 1735434967372650736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 418
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20782c3caab385a10800000000000000
+      internalID: 1898332847551448834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 386
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef0820f57a421d90800000000000000
+      internalID: -7128553389773287453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 386
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016dd3ca179e1b940800000000000000
+      internalID: 5310282110076835344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 386
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e59e07a827c30bd0800000000000000
+      internalID: -2665067577057831455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 386
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d08bfb34f0e522d0800000000000000
+      internalID: -3303987412023410479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 386
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24621059d1cc4380800000000000000
+      internalID: -8985594017415535572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 386
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ceb9628f1342970800000000000000
+      internalID: 8729156919620267008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 386
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a92bda3314e7710800000000000000
+      internalID: 1692862200151185947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 355
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56793069bdde94c40800000000000000
+      internalID: 5497186347552839525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 355
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb8fb872cd8b2a40800000000000000
+      internalID: 5344521249194216431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 355
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b9dd68b1144b7c0800000000000000
+      internalID: -4056545777871381661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 323
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7618b8be1be2bcaf0800000000000000
+      internalID: -375154802259426969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 323
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0009d9c9039619c90800000000000000
+      internalID: -7164829874662830080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 323
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6628c0446a45170800000000000000
+      internalID: 8166334835527411393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 323
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e699387397c5d540800000000000000
+      internalID: 5032147594847557353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 323
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b310480cc1a96bd70800000000000000
+      internalID: 9058597148781969723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 322
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4823c8b85e8c6d0800000000000000
+      internalID: -2969871566735506218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_71
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 324
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403f39d200ac85760800000000000000
+      internalID: 7446924085970596612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6af4e93e6c87f900800000000000000
+      internalID: 718197070634482285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 291
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7dc9c273fc3e690800000000000000
+      internalID: -7573982312428415054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 291
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc760c416c664d90800000000000000
+      internalID: -7113879396241998672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 291
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29b2d337673387f0800000000000000
+      internalID: -611584208001648340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_76
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 291
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc6cc06e4ec5e0b0800000000000000
+      internalID: -5699922917340713740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_77
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 291
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efeb93a5a2d0bab0800000000000000
+      internalID: -4994260377897537562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 291
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ae0e29b8db0a0a0800000000000000
+      internalID: -6872284624205059520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_79
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 291
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3026a3b9d141ee720800000000000000
+      internalID: 2877259329327227395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_80
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 291
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971e4c13062ce2440800000000000000
+      internalID: 4913077961915425145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_81
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 291
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0046e202c1430090800000000000000
+      internalID: -8069533805789691889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_82
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 291
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac10d6eabaae4ad0800000000000000
+      internalID: -2716045805544792920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_83
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 291
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9859d9867d762410800000000000000
+      internalID: 1451985877945899165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 291
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440fffbe7e6d812a0800000000000000
+      internalID: -6766422148538961852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_85
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 259
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622363e5297eeecf0800000000000000
+      internalID: -220984715862724058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_86
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 259
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd5bdd614aa00240800000000000000
+      internalID: 4755988404495932884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 259
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a0bf55416b40ec0800000000000000
+      internalID: -3601553603531437523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_88
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 259
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68e73b853cc6c100800000000000000
+      internalID: 128014169767667822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_89
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 259
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40da8b3f15b6055b0800000000000000
+      internalID: -5381683554982253308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_90
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 259
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1ce47afd7eb3b90800000000000000
+      internalID: -7260955026434113052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 228
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a8123e49553dbe0800000000000000
+      internalID: -1453724156756391386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 228
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840ff7f2a6315c380800000000000000
+      internalID: -8951727337544617912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_93
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 228
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57a05fa469a82790800000000000000
+      internalID: -7554602125010884770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 230
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9932f3c983f1410800000000000000
+      internalID: 1449939848761940433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_95
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 234
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fe9edea35f0a090800000000000000
+      internalID: -8025144902525784264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_96
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 225
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e500c559bdbcd070800000000000000
+      internalID: 8132583630829520355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_97
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 225
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205b4402226cba6b0800000000000000
+      internalID: -5283911887916583678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_98
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 246
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f934816bf65cd5760800000000000000
+      internalID: 7448326442327753631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_99
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 225
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24b01b9c6e6b7bb0800000000000000
+      internalID: -4937231153744530388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c365a2cfc41ef0e10800000000000000
+      internalID: 2166197666552895036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_101
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163c3d5207dc97930800000000000000
+      internalID: 4141567213898548065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_102
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 193
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fef4a73dc3793840800000000000000
+      internalID: 5204318169642368752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4cc12507b59edb0800000000000000
+      internalID: -4762174592995506985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_104
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0a9a9ddba09bf70800000000000000
+      internalID: 9203399124025188603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_105
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 161
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fa1ef1b655ed590800000000000000
+      internalID: -7647581198643777724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_106
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc155097b8e72dd70800000000000000
+      internalID: 9066448137346175436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_107
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 161
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8c346467ed0ba80800000000000000
+      internalID: -8453011901008066362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d0e061a01527de0800000000000000
+      internalID: -1336917035614073470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d333f2bef0fc3090800000000000000
+      internalID: -8053297056930647080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_110
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f223ebc92bddef70800000000000000
+      internalID: 9218264984858075897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_111
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d80d5edf4767fb0800000000000000
+      internalID: -4650400931382260471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ace1c1ccebd88a00800000000000000
+      internalID: 759098347121405092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_113
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe8a531fe2ee9210800000000000000
+      internalID: 1341759255452749553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_114
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c574d31ce1a0dbf0800000000000000
+      internalID: -301563139716778552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_115
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93abacabb2eb7cb80800000000000000
+      internalID: -8374515887045428679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_116
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2ddc9c0eaf393c0800000000000000
+      internalID: -4353860571371810139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_117
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb88313b856c370800000000000000
+      internalID: 8342452885900541438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_118
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38199e4c9172dcac0800000000000000
+      internalID: -3833364716191116925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_119
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b723d62f93f6a790800000000000000
+      internalID: -7519054662971742283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_120
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8477053389675cc50800000000000000
+      internalID: 6684879617969387336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_121
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f46286c957c8760800000000000000
+      internalID: 7461467997268758388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_122
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8be364cb6fc2b50800000000000000
+      internalID: 6569897244919511259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_123
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c10989ce6ae7cc0800000000000000
+      internalID: -3711345507804636001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_124
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3115ba04909dacad0800000000000000
+      internalID: -2681091994382806765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Cat - Aichan_owo_125
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 4
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605ff9178c762e70800000000000000
+      internalID: 9090089817592516704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0a8a3ed824368c340a3fc629e068fb10
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite Sheet Cat - Aichan_owo_0: -530053727918165926
+      Sprite Sheet Cat - Aichan_owo_1: -6520683568941483064
+      Sprite Sheet Cat - Aichan_owo_10: 4882501930656005432
+      Sprite Sheet Cat - Aichan_owo_100: 2166197666552895036
+      Sprite Sheet Cat - Aichan_owo_101: 4141567213898548065
+      Sprite Sheet Cat - Aichan_owo_102: 5204318169642368752
+      Sprite Sheet Cat - Aichan_owo_103: -4762174592995506985
+      Sprite Sheet Cat - Aichan_owo_104: 9203399124025188603
+      Sprite Sheet Cat - Aichan_owo_105: -7647581198643777724
+      Sprite Sheet Cat - Aichan_owo_106: 9066448137346175436
+      Sprite Sheet Cat - Aichan_owo_107: -8453011901008066362
+      Sprite Sheet Cat - Aichan_owo_108: -1336917035614073470
+      Sprite Sheet Cat - Aichan_owo_109: -8053297056930647080
+      Sprite Sheet Cat - Aichan_owo_11: -7606724027652969156
+      Sprite Sheet Cat - Aichan_owo_110: 9218264984858075897
+      Sprite Sheet Cat - Aichan_owo_111: -4650400931382260471
+      Sprite Sheet Cat - Aichan_owo_112: 759098347121405092
+      Sprite Sheet Cat - Aichan_owo_113: 1341759255452749553
+      Sprite Sheet Cat - Aichan_owo_114: -301563139716778552
+      Sprite Sheet Cat - Aichan_owo_115: -8374515887045428679
+      Sprite Sheet Cat - Aichan_owo_116: -4353860571371810139
+      Sprite Sheet Cat - Aichan_owo_117: 8342452885900541438
+      Sprite Sheet Cat - Aichan_owo_118: -3833364716191116925
+      Sprite Sheet Cat - Aichan_owo_119: -7519054662971742283
+      Sprite Sheet Cat - Aichan_owo_12: -1900552886378435140
+      Sprite Sheet Cat - Aichan_owo_120: 6684879617969387336
+      Sprite Sheet Cat - Aichan_owo_121: 7461467997268758388
+      Sprite Sheet Cat - Aichan_owo_122: 6569897244919511259
+      Sprite Sheet Cat - Aichan_owo_123: -3711345507804636001
+      Sprite Sheet Cat - Aichan_owo_124: -2681091994382806765
+      Sprite Sheet Cat - Aichan_owo_125: 9090089817592516704
+      Sprite Sheet Cat - Aichan_owo_13: -5370354122243332982
+      Sprite Sheet Cat - Aichan_owo_14: 2440362786627746249
+      Sprite Sheet Cat - Aichan_owo_15: 466556821207469784
+      Sprite Sheet Cat - Aichan_owo_16: -5384103137460640464
+      Sprite Sheet Cat - Aichan_owo_17: -3171782721952404849
+      Sprite Sheet Cat - Aichan_owo_18: -1008737328270770006
+      Sprite Sheet Cat - Aichan_owo_19: -808689527709302433
+      Sprite Sheet Cat - Aichan_owo_2: 8144859773304887515
+      Sprite Sheet Cat - Aichan_owo_20: -2403806808420471442
+      Sprite Sheet Cat - Aichan_owo_21: -6016858059507484718
+      Sprite Sheet Cat - Aichan_owo_22: -1687399782036856146
+      Sprite Sheet Cat - Aichan_owo_23: -1102586630912330502
+      Sprite Sheet Cat - Aichan_owo_24: -1550489553370743640
+      Sprite Sheet Cat - Aichan_owo_25: -1812432402621100494
+      Sprite Sheet Cat - Aichan_owo_26: -8040369802566345059
+      Sprite Sheet Cat - Aichan_owo_27: -3296276944474655187
+      Sprite Sheet Cat - Aichan_owo_28: 6311113963205818409
+      Sprite Sheet Cat - Aichan_owo_29: -1080611762663250619
+      Sprite Sheet Cat - Aichan_owo_3: 4101015514598428441
+      Sprite Sheet Cat - Aichan_owo_30: 3460354980350256795
+      Sprite Sheet Cat - Aichan_owo_31: -1805524178609461816
+      Sprite Sheet Cat - Aichan_owo_32: -1733141151211533570
+      Sprite Sheet Cat - Aichan_owo_33: 6429882682811175953
+      Sprite Sheet Cat - Aichan_owo_34: -8138368438310796879
+      Sprite Sheet Cat - Aichan_owo_35: 3319503594896947402
+      Sprite Sheet Cat - Aichan_owo_36: -461518715217876953
+      Sprite Sheet Cat - Aichan_owo_37: 7226491330475669938
+      Sprite Sheet Cat - Aichan_owo_38: -1492946901875591989
+      Sprite Sheet Cat - Aichan_owo_39: 3170631904241729502
+      Sprite Sheet Cat - Aichan_owo_4: 1435316071224044375
+      Sprite Sheet Cat - Aichan_owo_40: 5017389433819214182
+      Sprite Sheet Cat - Aichan_owo_41: -4832989085155901765
+      Sprite Sheet Cat - Aichan_owo_42: -7292566226311438440
+      Sprite Sheet Cat - Aichan_owo_43: -3828487858074523376
+      Sprite Sheet Cat - Aichan_owo_44: -2675029723417896031
+      Sprite Sheet Cat - Aichan_owo_45: -7779851914547249297
+      Sprite Sheet Cat - Aichan_owo_46: 2870721547367769813
+      Sprite Sheet Cat - Aichan_owo_47: 8826857100768092092
+      Sprite Sheet Cat - Aichan_owo_48: -4369526976577899123
+      Sprite Sheet Cat - Aichan_owo_49: 7728564483914127680
+      Sprite Sheet Cat - Aichan_owo_5: 3893618192618129837
+      Sprite Sheet Cat - Aichan_owo_50: 2086771632096831102
+      Sprite Sheet Cat - Aichan_owo_51: 1031323088770267998
+      Sprite Sheet Cat - Aichan_owo_52: 5782735082667838931
+      Sprite Sheet Cat - Aichan_owo_53: 1735434967372650736
+      Sprite Sheet Cat - Aichan_owo_54: 1898332847551448834
+      Sprite Sheet Cat - Aichan_owo_55: -7128553389773287453
+      Sprite Sheet Cat - Aichan_owo_56: 5310282110076835344
+      Sprite Sheet Cat - Aichan_owo_57: -2665067577057831455
+      Sprite Sheet Cat - Aichan_owo_58: -3303987412023410479
+      Sprite Sheet Cat - Aichan_owo_59: -8985594017415535572
+      Sprite Sheet Cat - Aichan_owo_6: -3750666848197293445
+      Sprite Sheet Cat - Aichan_owo_60: 8729156919620267008
+      Sprite Sheet Cat - Aichan_owo_61: 1692862200151185947
+      Sprite Sheet Cat - Aichan_owo_62: 5497186347552839525
+      Sprite Sheet Cat - Aichan_owo_63: 5344521249194216431
+      Sprite Sheet Cat - Aichan_owo_64: -4056545777871381661
+      Sprite Sheet Cat - Aichan_owo_65: -375154802259426969
+      Sprite Sheet Cat - Aichan_owo_66: -7164829874662830080
+      Sprite Sheet Cat - Aichan_owo_67: 8166334835527411393
+      Sprite Sheet Cat - Aichan_owo_68: 5032147594847557353
+      Sprite Sheet Cat - Aichan_owo_69: 9058597148781969723
+      Sprite Sheet Cat - Aichan_owo_7: 3422332262071314567
+      Sprite Sheet Cat - Aichan_owo_70: -2969871566735506218
+      Sprite Sheet Cat - Aichan_owo_71: 7446924085970596612
+      Sprite Sheet Cat - Aichan_owo_72: 718197070634482285
+      Sprite Sheet Cat - Aichan_owo_73: -7573982312428415054
+      Sprite Sheet Cat - Aichan_owo_74: -7113879396241998672
+      Sprite Sheet Cat - Aichan_owo_75: -611584208001648340
+      Sprite Sheet Cat - Aichan_owo_76: -5699922917340713740
+      Sprite Sheet Cat - Aichan_owo_77: -4994260377897537562
+      Sprite Sheet Cat - Aichan_owo_78: -6872284624205059520
+      Sprite Sheet Cat - Aichan_owo_79: 2877259329327227395
+      Sprite Sheet Cat - Aichan_owo_8: 532855610076485547
+      Sprite Sheet Cat - Aichan_owo_80: 4913077961915425145
+      Sprite Sheet Cat - Aichan_owo_81: -8069533805789691889
+      Sprite Sheet Cat - Aichan_owo_82: -2716045805544792920
+      Sprite Sheet Cat - Aichan_owo_83: 1451985877945899165
+      Sprite Sheet Cat - Aichan_owo_84: -6766422148538961852
+      Sprite Sheet Cat - Aichan_owo_85: -220984715862724058
+      Sprite Sheet Cat - Aichan_owo_86: 4755988404495932884
+      Sprite Sheet Cat - Aichan_owo_87: -3601553603531437523
+      Sprite Sheet Cat - Aichan_owo_88: 128014169767667822
+      Sprite Sheet Cat - Aichan_owo_89: -5381683554982253308
+      Sprite Sheet Cat - Aichan_owo_9: 599030457061411374
+      Sprite Sheet Cat - Aichan_owo_90: -7260955026434113052
+      Sprite Sheet Cat - Aichan_owo_91: -1453724156756391386
+      Sprite Sheet Cat - Aichan_owo_92: -8951727337544617912
+      Sprite Sheet Cat - Aichan_owo_93: -7554602125010884770
+      Sprite Sheet Cat - Aichan_owo_94: 1449939848761940433
+      Sprite Sheet Cat - Aichan_owo_95: -8025144902525784264
+      Sprite Sheet Cat - Aichan_owo_96: 8132583630829520355
+      Sprite Sheet Cat - Aichan_owo_97: -5283911887916583678
+      Sprite Sheet Cat - Aichan_owo_98: 7448326442327753631
+      Sprite Sheet Cat - Aichan_owo_99: -4937231153744530388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
